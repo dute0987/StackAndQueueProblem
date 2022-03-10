@@ -5,7 +5,7 @@ namespace StackProblem
 {
     class Program
     {
-        //Wecome to the Stack Problem
+        
         /// <summary>
         /// UC1 Stack and Queues push 70,30,56 values.
         /// </summary>
